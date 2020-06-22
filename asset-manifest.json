@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-liff_buleteam/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-liff_buleteam/static/js/main.ab45ff95.chunk.js",
+    "main.js.map": "/react-liff_buleteam/static/js/main.ab45ff95.chunk.js.map",
+    "runtime-main.js": "/react-liff_buleteam/static/js/runtime-main.3fc9c791.js",
+    "runtime-main.js.map": "/react-liff_buleteam/static/js/runtime-main.3fc9c791.js.map",
+    "static/js/2.9c44c218.chunk.js": "/react-liff_buleteam/static/js/2.9c44c218.chunk.js",
+    "static/js/2.9c44c218.chunk.js.map": "/react-liff_buleteam/static/js/2.9c44c218.chunk.js.map",
+    "index.html": "/react-liff_buleteam/index.html",
+    "precache-manifest.0e5ba0a722248d638f8956ab3977faa4.js": "/react-liff_buleteam/precache-manifest.0e5ba0a722248d638f8956ab3977faa4.js",
+    "service-worker.js": "/react-liff_buleteam/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-liff_buleteam/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9c44c218.chunk.js.LICENSE.txt": "/react-liff_buleteam/static/js/2.9c44c218.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc9c791.js",
+    "static/js/2.9c44c218.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ab45ff95.chunk.js"
+  ]
+}
