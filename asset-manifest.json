@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-liff_buleteam/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-liff_buleteam/static/js/main.cf395085.chunk.js",
-    "main.js.map": "/react-liff_buleteam/static/js/main.cf395085.chunk.js.map",
+    "main.js": "/react-liff_buleteam/static/js/main.47798a21.chunk.js",
+    "main.js.map": "/react-liff_buleteam/static/js/main.47798a21.chunk.js.map",
     "runtime-main.js": "/react-liff_buleteam/static/js/runtime-main.3fc9c791.js",
     "runtime-main.js.map": "/react-liff_buleteam/static/js/runtime-main.3fc9c791.js.map",
     "static/js/2.e1803abb.chunk.js": "/react-liff_buleteam/static/js/2.e1803abb.chunk.js",
     "static/js/2.e1803abb.chunk.js.map": "/react-liff_buleteam/static/js/2.e1803abb.chunk.js.map",
     "index.html": "/react-liff_buleteam/index.html",
-    "precache-manifest.a5601025130ce58eefb6f1ce6ab47e24.js": "/react-liff_buleteam/precache-manifest.a5601025130ce58eefb6f1ce6ab47e24.js",
+    "precache-manifest.8d424d61e49f2dcaebf90dadef9c6d51.js": "/react-liff_buleteam/precache-manifest.8d424d61e49f2dcaebf90dadef9c6d51.js",
     "service-worker.js": "/react-liff_buleteam/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/react-liff_buleteam/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.e1803abb.chunk.js.LICENSE.txt": "/react-liff_buleteam/static/js/2.e1803abb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3fc9c791.js",
     "static/js/2.e1803abb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cf395085.chunk.js"
+    "static/js/main.47798a21.chunk.js"
   ]
 }
